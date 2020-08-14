@@ -1,0 +1,6 @@
+1、下载器接USB线到电脑USB口，红灯闪烁，等待几秒，识别为U盘设备，打开我的电脑，可以发现新的盘符“STM32 USB”。
+2、禁止将文件名为“Patch205.app”的文件，拖到“STM32 USB”这个U盘，或者打开复制到盘里面，否则该设备将会变为一个jlink 下载器、您将可能面临法律责任。
+温馨提示：软件仅供学习和技术交流，勿用于商业及非法用途，否则产生的法律及相关问题责任由使用人自行负责！
+1、Download USB cable to the computer USB Port, red light flashing, wait a few seconds, identify as a u disk device, open my computer, you can find a new disk symbol "STM32 USB. ". 
+2. Do not drag a file named "PATCH103.APP" onto a USB stick called "STM32 USB" or open it and copy it to a disk, otherwise the device will become a jlink download and you will be liable. 
+TIPS: The software for learning and technical exchanges only, not for commercial and illegal use, otherwise the legal and related issues arising from the user's own responsibility!
